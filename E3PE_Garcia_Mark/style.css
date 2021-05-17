@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 20px;
+  background-color: #dd7e28;
+}
+
+body {
+  width: 70%;
+  min-width: 800px;
+  margin: 0 auto;
+}
+
+
+h1, h2, h3 {
+  font-family: 'Coronetscript', cursive;
+  color: #9ACD32;
+}
